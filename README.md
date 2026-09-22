@@ -82,16 +82,16 @@ Score = α·S_eff(i) + β·S_con(i) + γ·S_green(i)
 | 上海市大学生计算机能力大赛 | 三等奖 |
 | 第五届松江大学城48小时创客大赛 | 三等奖 |
 
-<img src="awards/certificate-01.png" width="300">
-<img src="awards/certificate-02.png" width="300">
-<img src="awards/certificate-03.png" width="300">
+<img src="screenshots/certificate-01.png" width="300">
+<img src="screenshots/certificate-02.png" width="300">
+<img src="screenshots/certificate-03.png" width="300">
 
 ### 参赛照片
 
-<img src="awards/competition-01.png" width="300">
-<img src="awards/competition-02.png" width="300">
-<img src="awards/competition-03.png" width="300">
-<img src="awards/competition-04.png" width="300">
+<img src="screenshots/competition-01.png" width="300">
+<img src="screenshots/competition-02.png" width="300">
+<img src="screenshots/competition-03.png" width="300">
+<img src="screenshots/competition-04.png" width="300">
 
 ## 项目截图
 
