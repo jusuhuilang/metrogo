@@ -81,17 +81,20 @@ Score = α·S_eff(i) + β·S_con(i) + γ·S_green(i)
 | 全国大学生电子商务“创新、创意及创业”挑战赛 | 省级二等奖 |
 | 上海市大学生计算机能力大赛 | 三等奖 |
 | 第五届松江大学城48小时创客大赛 | 三等奖 |
+| 中美青年创客大赛上海分赛区 | 二等奖 |
 
 <img src="screenshots/certificate-01.png" width="300">
-<img src="screenshots/certificate-02.png" width="300">
+<img src="screenshots/certificate-02.jpg" width="300">
 <img src="screenshots/certificate-03.png" width="300">
+<img src="screenshots/certificate-04.png" width="300">
 
 ### 参赛照片
 
-<img src="screenshots/competition-01.png" width="300">
-<img src="screenshots/competition-02.png" width="300">
-<img src="screenshots/competition-03.png" width="300">
-<img src="screenshots/competition-04.png" width="300">
+<img src="screenshots/competition-01.jpg" width="300">
+<img src="screenshots/competition-02.jpg" width="300">
+<img src="screenshots/competition-03.jpg" width="300">
+<img src="screenshots/competition-04.jpg" width="300">
+<img src="screenshots/competition-05.jpg" width="300">
 
 ## 项目截图
 
