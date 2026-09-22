@@ -12,7 +12,7 @@
 
 三等奖
 
-<img src="../screenshots/certificate-02.png" width="400">
+<img src="../screenshots/certificate-02.jpg" width="400">
 
 ### 第五届松江大学城48小时创客大赛
 
@@ -24,28 +24,28 @@
 
 二等奖
 
-<img src="../screenshots/competition-05.png" width="400">
+<img src="../screenshots/certificate-04.png" width="400">
 
 ## 参赛照片
 
-### 路演答辩
-
 ### 第五届松江大学城48小时创客大赛答辩现场
 
-<img src="../screenshots/competition-01.png" width="500">
+<img src="../screenshots/competition-01.jpg" width="500">
 
 ### 中美青年创客大赛答辩现场
 
-<img src="../screenshots/competition-06.jpg" width="500">
+<img src="../screenshots/competition-05.jpg" width="500">
 
 ### 展板展示（一）
 
-<img src="../screenshots/competition-02.png" width="500">
+<img src="../screenshots/competition-02.jpg" width="500">
 
 ### 展板展示（二）
 
-<img src="../screenshots/competition-03.png" width="500">
+<img src="../screenshots/competition-03.jpg" width="500">
 
 ### 团队合影
 
-<img src="../screenshots/competition-04.png" width="500">
+<img src="../screenshots/competition-04.jpg" width="500">
+
+
