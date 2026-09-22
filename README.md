@@ -72,6 +72,27 @@ Score = α·S_eff(i) + β·S_con(i) + γ·S_green(i)
 - ✅ 路径规划、商品搜索、下单购买等核心功能均已跑通
 - ✅ 已完成上海地铁多条线路的站点数据采集与原型测试
 
+## 获奖与参赛
+
+### 获奖证书
+
+| 竞赛名称 | 奖项 |
+|----------|------|
+| 全国大学生电子商务“创新、创意及创业”挑战赛 | 省级二等奖 |
+| 上海市大学生计算机能力大赛 | 三等奖 |
+| 第五届松江大学城48小时创客大赛 | 三等奖 |
+
+<img src="awards/certificate-01.png" width="300">
+<img src="awards/certificate-02.png" width="300">
+<img src="awards/certificate-03.png" width="300">
+
+### 参赛照片
+
+<img src="awards/competition-01.png" width="300">
+<img src="awards/competition-02.png" width="300">
+<img src="awards/competition-03.png" width="300">
+<img src="awards/competition-04.png" width="300">
+
 ## 项目截图
 
 ### 乘客端（微信小程序）
